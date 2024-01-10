@@ -1,8 +1,6 @@
 # About
 
-Second challenge from rocketseat react ignite.
-
-This challenge handle with refactoring concepts, to avoid code coupling.
+This a challenge on refactoring concepts, avoinding code coupling.
 
 ## How to test
 
@@ -14,4 +12,4 @@ yarn test
 
 ## Credits
 
-Application code template from rocketseat.
+Application code is original from rocketseat bootcamp and refactored by Ariel Evangelista.
